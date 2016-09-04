@@ -1,6 +1,5 @@
 ﻿using System;
 using BaseUIBDD.Common;
-using BaseUIBDD.Startup;
 using TechTalk.SpecFlow;
 
 namespace BaseUIBDD.Hooks
